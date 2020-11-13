@@ -3,11 +3,21 @@ body{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     color: cornflowerblue;
 }
+.cabecera
+{
+    background: darkgoldenrod;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+    box-shadow: 2px 5px 23px 0px rgba(0,0,0,0.75);
+}
 #container
 {
     width: 70%;
     padding: 20px;
     text-align: center;
     border: 1px solid black;
-    margin:100px    ;
+    margin:100;-webkit-box-shadow: 2px 17px 26px 5px rgba (0,0,0,0.75);
+    -moz-box-shadow: 2px 17px 26px 5px rgba (0,0,0,0.75);
+    sombra de cuadro: 2px 17px 26px 5px rgba (0,0,0,0.75);
 }
