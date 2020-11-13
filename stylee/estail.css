@@ -3,3 +3,11 @@ body{
     font-family: Arial, Helvetica, sans-serifs;
     color: cornflowerblue;
 }
+#container
+{
+    width: 70%;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+    margin:100px    ;
+}
