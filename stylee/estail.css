@@ -1,8 +1,19 @@
-body{
+body {
+    padding-right: 248px;
     text-align: center;
+<<<<<<< HEAD
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     color: cornflowerblue;
 }
+=======
+    font-family: Arial, Helvetica, sans-serifs;
+    color: white;
+    background: black;
+    padding: 8px;
+    margin-right: 0px;
+    margin-left: 274px;
+    margin-top: 151px;}
+>>>>>>> cabecera
 .cabecera
 {
     background: darkgoldenrod;
@@ -13,11 +24,11 @@ body{
 }
 #container
 {
+    background: #f28424;
     width: 70%;
     padding: 20px;
     text-align: center;
-    border: 1px solid black;
-    margin:100;-webkit-box-shadow: 2px 17px 26px 5px rgba (0,0,0,0.75);
+    border: 1px solid white;
     -moz-box-shadow: 2px 17px 26px 5px rgba (0,0,0,0.75);
     sombra de cuadro: 2px 17px 26px 5px rgba (0,0,0,0.75);
 }
