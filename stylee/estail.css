@@ -3,14 +3,13 @@ body{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     color: cornflowerblue;
 }
-.cabecera
+.footer
 {
-    background: darkgoldenrod;
-    color: white;
+    border: 1px solid red;
     padding: 20px;
-    margin: 0px;
-    box-shadow: 2px 5px 23px 0px rgba(0,0,0,0.75);
+    color: blueviolet;
 }
+
 #container
 {
     width: 70%;
