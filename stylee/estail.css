@@ -2,21 +2,22 @@ body{
     text-align: center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     color: cornflowerblue;
+    background: black;
 }
 .footer
 {
-    border: 1px solid red;
+    border: 1px solid white;
     padding: 20px;
     color: blueviolet;
 }
 
 #container
 {
+   background-color: black;
     width: 70%;
     padding: 20px;
     text-align: center;
     border: 1px solid black;
-    margin:100;-webkit-box-shadow: 2px 17px 26px 5px rgba (0,0,0,0.75);
-    -moz-box-shadow: 2px 17px 26px 5px rgba (0,0,0,0.75);
-    sombra de cuadro: 2px 17px 26px 5px rgba (0,0,0,0.75);
+    margin:100;-webkit-box-shadow: 2px 17px 26px 5px rgba(14, 88, 185, 0.75);
+    
 }
