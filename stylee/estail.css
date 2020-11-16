@@ -2,10 +2,13 @@ body {
     padding-right: 248px;
     text-align: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     color: cornflowerblue;
 }
 =======
+=======
+>>>>>>> header
     font-family: Arial, Helvetica, sans-serifs;
     color: white;
     background: black;
@@ -13,7 +16,10 @@ body {
     margin-right: 0px;
     margin-left: 274px;
     margin-top: 151px;}
+<<<<<<< HEAD
 >>>>>>> cabecera
+=======
+>>>>>>> header
 .cabecera
 {
     background: darkgoldenrod;
@@ -30,5 +36,4 @@ body {
     text-align: center;
     border: 1px solid white;
     -moz-box-shadow: 2px 17px 26px 5px rgba (0,0,0,0.75);
-    sombra de cuadro: 2px 17px 26px 5px rgba (0,0,0,0.75);
 }
