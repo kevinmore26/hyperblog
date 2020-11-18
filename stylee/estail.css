@@ -8,14 +8,22 @@ body {
     margin-right: 0px;
     margin-left: 274px;
     margin-top: 151px;}
-.cabecera
-{
-    background: darkgoldenrod;
-    color: white;
-    padding: 20px;
-    margin: 0px;
-    box-shadow: 2px 5px 23px 0px rgba(0,0,0,0.75);
-}
+    .tittle
+    {
+        margin: 45px;
+    }
+    .hola
+    {
+       height: 400px;
+       width: 746px;
+    }
+    .cabecera {
+        background: darkgoldenrod;
+        color: white;
+        padding: 31px;
+        margin: -19px;
+        box-shadow: 2px 5px 23px 0px rgba(0,0,0,0.75);
+    }
 #container
 {
     background: #f28424;
@@ -23,5 +31,18 @@ body {
     padding: 20px;
     text-align: center;
     border: 1px solid white;
-    -moz-box-shadow: 2px 17px 26px 5px rgba (0,0,0,0.75);
+    -moz-box-shadow: 2px 17px 26px 5px rgba(0,0,0,0.75);
+}
+.texto
+{
+    margin-bottom: 77px;
+}
+.footer
+{
+    background-color: black;
+    margin-left: -18px;
+    margin-bottom: -20px;
+    padding: 58px;
+    width: 662px;
+    height: 0px;
 }
