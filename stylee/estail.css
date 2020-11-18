@@ -1,17 +1,12 @@
 body {
     padding-right: 248px;
     text-align: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+background: black;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    color: cornflowerblue;
+    color: white;
 }
-=======
-=======
->>>>>>> header
-=======
->>>>>>> header
+
+ header{
     font-family: Arial, Helvetica, sans-serifs;
     color: white;
     background: black;
@@ -19,7 +14,7 @@ body {
     margin-right: 0px;
     margin-left: 274px;
     margin-top: 151px;}
-<<<<<<< HEAD
+
     .tittle
     {
         margin: 45px;
@@ -36,42 +31,29 @@ body {
         margin: -19px;
         box-shadow: 2px 5px 23px 0px rgba(0,0,0,0.75);
     }
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> cabecera
-=======
->>>>>>> header
-=======
->>>>>>> header
-.cabecera
-{
-    background: darkgoldenrod;
-    color: white;
-    padding: 20px;
-    margin: 0px;
-    box-shadow: 2px 5px 23px 0px rgba(0,0,0,0.75);
-}
->>>>>>> 002fdaa2d52927ea3189647e098164fdb33656d4
+
+
+
 #container
 {
     background: #f28424;
     width: 70%;
     padding: 20px;
+    margin-left: 248px;
     text-align: center;
     border: 1px solid white;
     -moz-box-shadow: 2px 17px 26px 5px rgba(0,0,0,0.75);
 }
 .texto
 {
-    margin-bottom: 77px;
+    margin-bottom: 50px;
 }
 .footer
 {
     background-color: black;
     margin-left: -18px;
-    margin-bottom: -20px;
-    padding: 58px;
+    margin-bottom: -19px;
+    padding: 67px;
     width: 662px;
     height: 0px;
 }
