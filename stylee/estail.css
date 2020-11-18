@@ -1,6 +1,17 @@
 body {
     padding-right: 248px;
     text-align: center;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color: cornflowerblue;
+}
+=======
+=======
+>>>>>>> header
+=======
+>>>>>>> header
     font-family: Arial, Helvetica, sans-serifs;
     color: white;
     background: black;
@@ -8,6 +19,7 @@ body {
     margin-right: 0px;
     margin-left: 274px;
     margin-top: 151px;}
+<<<<<<< HEAD
     .tittle
     {
         margin: 45px;
@@ -24,6 +36,23 @@ body {
         margin: -19px;
         box-shadow: 2px 5px 23px 0px rgba(0,0,0,0.75);
     }
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> cabecera
+=======
+>>>>>>> header
+=======
+>>>>>>> header
+.cabecera
+{
+    background: darkgoldenrod;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+    box-shadow: 2px 5px 23px 0px rgba(0,0,0,0.75);
+}
+>>>>>>> 002fdaa2d52927ea3189647e098164fdb33656d4
 #container
 {
     background: #f28424;
